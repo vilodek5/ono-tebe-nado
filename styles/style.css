@@ -175,9 +175,9 @@ ul {
   z-index: 1;
   flex-direction: column;
   justify-content: space-between;
-  width: 328px;
+  width: 330px;
   height: 100%;
-  padding: 48px 35px 46px 39px;
+  padding: 48px 35px 48px 40px;
   color: #fff;
   background-size: cover;
   background-repeat: no-repeat;
