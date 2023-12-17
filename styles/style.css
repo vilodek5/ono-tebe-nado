@@ -282,3 +282,7 @@ ul {
 .footer__social-list-item {
   width: 48px;
 }
+
+.margin {
+  margin-top: -7px;
+}
