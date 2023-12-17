@@ -177,7 +177,7 @@ ul {
   justify-content: space-between;
   width: 330px;
   height: 100%;
-  padding: 48px 35px 48px 40px;
+  padding: 50px 35px 50px 40px;
   color: #fff;
   background-size: cover;
   background-repeat: no-repeat;
@@ -224,7 +224,7 @@ ul {
   grid-template-columns: repeat(2, auto);
   grid-template-rows: repeat(2, auto);
   column-gap: 25px;
-  padding: 177px 9px 0;
+  padding: 180px 9px 0;
 }
 
 .about__logo {
