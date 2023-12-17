@@ -27,8 +27,8 @@ ul {
   margin-left: 12px;
   margin-right: 12px;
   vertical-align: middle;
-  width: 7px;
-  height: 7px;
+  width: 6px;
+  height: 6px;
   border: 1px solid #000;
   border-radius: 50%;
 }
@@ -277,7 +277,7 @@ ul {
 .footer__social-list {
   display: flex;
   justify-content: space-between;
-  gap: 46px;
+  gap: 45px;
 }
 
 .footer__social-list-item {
