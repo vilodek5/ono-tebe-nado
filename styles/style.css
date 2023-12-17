@@ -254,7 +254,7 @@ ul {
 .about__text {
   padding-right: 12px;
   font-size: 20px;
-  line-height: 23px;
+  line-height: 115%;
 }
 
 .footer {
