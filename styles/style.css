@@ -8,7 +8,7 @@ ul {
   grid-template-columns: auto 1fr 1fr;
   align-items: center;
   gap: 31px;
-  margin: 91px 54px 91px 58px
+  margin: 91px 50px;
 }
 
 .header__links-list {
@@ -39,6 +39,7 @@ ul {
 
 .header__logo {
   width: 136px;
+  padding-top: 2px;
 }
 
 .address {
